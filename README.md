@@ -1,4 +1,4 @@
-# 🚂 Trilhos de Trens do Minecraft (Sincronizado)
+# 🚂 Trilhos de Trens do Minecraft Usando Threads Para Controle de Concorrência
 
 **Autor:** Gabriel Marcone Magalhaes Santos  
 **Matrícula:** 202410374  
