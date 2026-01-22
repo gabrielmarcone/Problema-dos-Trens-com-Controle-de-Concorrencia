@@ -37,4 +37,4 @@ Este projeto consiste numa simulação de trens em **JavaFX** com estética do j
 1. Certifique-se de ter o **Java 8** (ou superior com JavaFX) configurado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/minecart-concurrency-control.git](https://github.com/seu-usuario/minecart-concurrency-control.git)
+   git clone https://github.com/gabrielmarcone/Problema-dos-Trens-com-Controle-de-Concorrencia.git
